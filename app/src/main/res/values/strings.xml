@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">user_bus</string>
+
+    <string-array name="options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+
+    <string name="back"><![CDATA[< BACK]]></string>
+</resources>

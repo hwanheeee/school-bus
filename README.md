@@ -57,10 +57,5 @@ Firebase와 연동하여 예약 정보 관리 및 로그인 기능을 제공합�
 ### 🎓 사용자 앱 (User App)
 <img src="./screenshots/userapp.png" alt="User App" width="300"/>
 
----
-
-### 🚌 운전자 앱 (Driver App)
-<img src="./screenshots/driverapp.png" alt="Driver App" width="300"/>
-
 
 ---

@@ -55,7 +55,7 @@ Firebase와 연동하여 예약 정보 관리 및 로그인 기능을 제공합�
 ## 📱 스크린샷
 
 ### 🎓 사용자 앱 (User App)
-<img src="./screenshots/userapp.png" alt="User App" width="300"/>
+<img src="./screenshots/userapp.png" alt="User App" width="500"/>
 
 
 ---
